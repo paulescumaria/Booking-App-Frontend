@@ -1,0 +1,31 @@
+html, body {
+    overflow-x: hidden;
+  }
+
+body {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+button {
+    color: #fff;
+    background-color: #3898ec;
+    border-radius: 5px;
+    border-style: none;
+    border-color: none;
+    padding: 10px;
+    margin: 5px;
+}
+
+.link {
+    color: #000;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+} 
+
+.link:hover {
+    color: #3898ec;
+}
